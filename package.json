@@ -1,0 +1,21 @@
+{
+  "name": "ap2024",
+  "version": "1.0.0",
+  "description": "Vjezba 3 za kolegij AP - Mario Jonjic",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mysql"
+  ],
+  "author": "Mario Jonjic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0"
+  }
+}
